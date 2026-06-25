@@ -1,8 +1,17 @@
-<h1 align="center">Hi 👋, I'm ranto-dev05</h1>
-<h3 align="center">Future Data Cloud - Cybersecurity</h3>
+<div align="center">
 
-- 🌱 I’m currently learning **Python, MySQL and Networking**
+# Hi👋, I'm ranto-dev05
 
+### 🚀 Support IT | Future Data Cloud | Cybersegurity
+
+</div>
+
+---
+##  About me
+- 🔧 Experience: Object-Oriented Programming (OOP) university projects
+- 🌱 Currently Learning: Python, Java, C++, Git, Bash
+- 🎯 Objetive: Build web applications, data automations, and architectural software solutions.
+- ⚡ Elevating technical engineering skills
 - 📫 How to reach me **r.antoniacontacto@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
