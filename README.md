@@ -29,7 +29,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=ranto-dev05&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=ranto-dev05&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ranto-dev05&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ranto-dev05&theme=merko&no-frame=false&no-bg=true&margin-w=4)
