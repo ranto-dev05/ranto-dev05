@@ -1,12 +1,13 @@
 <div align="center">
-  <img src="./banner.png" alt="welcome to rantodev's room" width="100%">
+  <img src="./banner.png.jpeg" alt="welcome to rantodev's room" width="100%">
 </div>
 
 <div align="center">
+  
 # Hi👋, I'm ranto-dev05
 
 ### 🚀 Support IT | Future Data Cloud | Cybersegurity
-</div>
+
 
 
 ---
