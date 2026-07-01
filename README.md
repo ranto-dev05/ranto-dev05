@@ -1,8 +1,7 @@
 <div align="center">
-  <img src="./banner" alt="welcome to rantodev's room" width="100%">
+  <img src="./banner.png" alt="welcome to rantodev's room" width="100%">
 </div>
 
-<br>
 <div align="center">
 # Hi👋, I'm ranto-dev05
 
