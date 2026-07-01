@@ -12,17 +12,16 @@
 - 🌱 Currently Learning: Python, Java, C++, Git, Bash
 - 🎯 Objetive: Build web applications, data automations, and architectural software solutions.
 - ⚡ Elevating technical engineering skills
-   **r.antoniacontacto@gmail.com**
 
 <h3 align="left">📫 How to reach me:</h3>
 <p align="left">
+  
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rantodev/)
 
-[![My Skills](https://skillicons.dev/icons?i=gmail,linkedin,stackoverflow)](https://skillicons.dev)
 </p>
 
 ---
 ## 🛠️Lenguajes and tools
-
 
 <p align="center">
   <a href="https://skillicons.dev">
