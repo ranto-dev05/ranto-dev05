@@ -17,6 +17,8 @@
 <p align="left">
   
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rantodev/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:r.antoniacontacto@gmail.com)
+[![StackOverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/32867062/rantodev)
 
 </p>
 
