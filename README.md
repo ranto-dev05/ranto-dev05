@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./download.mp4" alt="welcome to rantodev's room" width="100%">
+  <img src="./banner.gif.gif" alt="welcome to rantodev's room" width="100%">
 </div>
 
 <div align="center">
