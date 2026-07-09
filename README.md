@@ -63,7 +63,7 @@ Technical toolkit for software engineering, system scripting, and infrastructure
 
 ---
 
-## 🧪 Epic Projects & Quests
+## 🧪 Projects & Quests
 
 *   🌐 **TechNova Ltda Network Simulation**: Design and implementation of a hierarchical network infrastructure (distribution and access layers) using Cisco Packet Tracer, validated through strict verification command workflows.
 *   🏋️ **Sports Management System (OOP)**: Development of a modular application in C++ applying inheritance and polymorphism through core classes such as `Cardio` and `Fuerza`.
