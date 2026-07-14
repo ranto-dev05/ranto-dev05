@@ -8,13 +8,13 @@
 
 Automating Processes 💻 | Simulating Networks 🛡️ | Optimizing Architectures ☁️
 
-Computer Engineering & Informatics student focused on software development, data structures.
+Computer Engineering & Informatics student focused on software development, data structures and cybersegurity.
 
 
 ---
 ## 🤝 Let's Team Up!
 
-Ready to collaborate on software design, data automation, or structural simulations? Connect here:
+Ready to collaborate on software design? Connect here:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rantodev/" target="_blank">
