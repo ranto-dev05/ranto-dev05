@@ -66,7 +66,7 @@ Technical toolkit for software engineering, system scripting, and infrastructure
 ## 🧪 Projects & Quests
 
 *   🌐 **TechNova Ltda Network Simulation**: Design and implementation of a hierarchical network infrastructure (distribution and access layers) using Cisco Packet Tracer, validated through strict verification command workflows.
-*   📚 **Python Study Bitacora (WORK IN PROGRESS!) **: A structured learning repository on GitHub designed to document advanced logic foundations, exercises, and study milestones.
+*   📚 **Python Study Bitacora (WORK IN PROGRESS!)**: A structured learning repository on GitHub designed to document advanced logic foundations, exercises, and study milestones.
 *   **Discord bot from HackTheWorld Comunnity:** (Soon... ;) )
 
 ---
