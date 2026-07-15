@@ -75,7 +75,7 @@ Technical toolkit for software engineering, system scripting, and infrastructure
 
 *   ⏳ **Grinding Now:** Mastering data structures, refining Object-Oriented Programming (OOP) architectures, and studying network simulations.
 *   🔮 **Ultimate Quest:** Building robust web applications, data automations, and exploring emerging paradigms like Edge AI, robotics, and hardware optimization.
-*   ⚔️ **Side Quests:** Enhancing technical documentation rigor, improving professional English summaries, and preparing for high-level professional internships.
+
 
 
 
