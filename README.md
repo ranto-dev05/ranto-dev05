@@ -73,7 +73,7 @@ Technical toolkit for software engineering, system scripting, and infrastructure
 
 ## 🎯 My Mission & Endgame
 
-*   ⏳ **Grinding Now:** Mastering data structures, refining Object-Oriented Programming (OOP) architectures, and studying network simulations.
+*   ⏳ **Grinding Now:** Refining Object-Oriented Programming (OOP) architectures, and studying network simulations.
 *   🔮 **Ultimate Quest:** Building robust web applications, data automations, and exploring emerging paradigms like Edge AI, robotics, and hardware optimization.
 
 
